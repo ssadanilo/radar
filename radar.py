@@ -1,6 +1,6 @@
 km_medido = float(input('Digite o km do carro ao passar o radar: '))
 
-limite_velocidade = 80
+limite_velocidade = 40
 multa = (km_medido - limite_velocidade) * 20
 
 
